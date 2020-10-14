@@ -1,2 +1,3 @@
-1.Za co odpowiada JVM
-2.Classloader
+##JVM
+* Za co odpowiada JVM
+* Classloader

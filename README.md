@@ -1,6 +1,6 @@
 # PYTANIA DO ROZMOWY KWALIFIKACYJNEJ NA STANOWISKO JAVA DEVELOPER
 
-* JVM
+* [JVM](https://github.com/Betakarotin/java-interview/blob/main/JVM.md)
 * OOP
 * Core
 * Collections

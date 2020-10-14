@@ -1,20 +1,20 @@
 # PYTANIA DO ROZMOWY KWALIFIKACYJNEJ NA STANOWISKO JAVA DEVELOPER
 
 * [JVM](https://github.com/Betakarotin/java-interview/blob/main/JVM.md)
-* OOP
-* Core
-* Collections
-* Strumienie we/wy(IO,NIO)
-* Serializacja
-* Wielowątkowość
-* Java 8
-* Servlets,JSP
-* Baza danych
-* SQL
-* JDBC
-* Testowanie
-* Logowanie
-* UML
-* XML
-* Wzorce projektowe
-* Web
+* [OOP](https://github.com/Betakarotin/java-interview/blob/main/OOP.md)
+* [Core](https://github.com/Betakarotin/java-interview/blob/main/Core.md)
+* [Collections](https://github.com/Betakarotin/java-interview/blob/main/Collections.md)
+* [Strumienie we/wy(IO,NIO)](https://github.com/Betakarotin/java-interview/blob/main/Strumienie we/wy(IO,NIO).md)
+* [Serializacja](https://github.com/Betakarotin/java-interview/blob/main/Serializacja.md)
+* [Wielowątkowość](https://github.com/Betakarotin/java-interview/blob/main/Wielowątkowość.md)
+* [Java 8](https://github.com/Betakarotin/java-interview/blob/main/Java8.md)
+* [Servlets,JSP](https://github.com/Betakarotin/java-interview/blob/main/Servlets,JSP.md)
+* [Baza danych](https://github.com/Betakarotin/java-interview/blob/main/Bazy-danych.md)
+* [SQL](https://github.com/Betakarotin/java-interview/blob/main/SQL.md)
+* [JDBC](https://github.com/Betakarotin/java-interview/blob/main/JDBC.md)
+* [Testowanie](https://github.com/Betakarotin/java-interview/blob/main/Testowanie.md)
+* [Logowanie](https://github.com/Betakarotin/java-interview/blob/main/Logowanie.md)
+* [UML](https://github.com/Betakarotin/java-interview/blob/main/UML.md)
+* [XML](https://github.com/Betakarotin/java-interview/blob/main/XML.md)
+* [Wzorce projektowe](https://github.com/Betakarotin/java-interview/blob/main/Wzorce-projektowe.md)
+* [Web](https://github.com/Betakarotin/java-interview/blob/main/Web.md)
